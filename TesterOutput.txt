@@ -1,0 +1,27 @@
+ArrayListClass
+Adding Data: 21ms
+Go through: 0ms
+Sort: 109ms
+Clear: 0ms
+===============
+HashSetClass
+Adding Data: 7ms
+Go through: 1ms
+Clear: 0ms
+===============
+LinkedHashSetClass
+Adding Data: 4ms
+Go through: 0ms
+Clear: 0ms
+===============
+LinkedListClass
+Adding Data: 2ms
+Go through: 1ms
+Sort: 3ms
+Clear: 0ms
+===============
+TreeSetClass
+Adding Data: 19ms
+Go through: 1ms
+Clear: 0ms
+===============
