@@ -1,27 +1,30 @@
 ArrayListClass
 Adding Data: 21ms
 Go through: 0ms
-Sort: 109ms
+Sort: 148ms
 Clear: 0ms
 ===============
 HashSetClass
-Adding Data: 7ms
-Go through: 1ms
+Adding Data: 5ms
+Go through: 30ms
+Sort: Cannot sort this collection
 Clear: 0ms
 ===============
 LinkedHashSetClass
-Adding Data: 4ms
+Adding Data: 3ms
 Go through: 0ms
+Sort: Cannot sort this collection
 Clear: 0ms
 ===============
 LinkedListClass
-Adding Data: 2ms
+Adding Data: 3ms
 Go through: 1ms
-Sort: 3ms
+Sort: 2ms
 Clear: 0ms
 ===============
 TreeSetClass
-Adding Data: 19ms
-Go through: 1ms
+Adding Data: 22ms
+Go through: 20ms
+Sort: Cannot sort this collection
 Clear: 0ms
 ===============
